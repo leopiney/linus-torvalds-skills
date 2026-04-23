@@ -1,0 +1,11 @@
+{
+  "name": "linus-torvalds-skills",
+  "description": "Aggressive AI coding guidelines recast through Linus Torvalds' blunt, data-first engineering style",
+  "version": "1.0.0",
+  "author": {
+    "name": "forrestchang"
+  },
+  "license": "MIT",
+  "keywords": ["ai-coding", "guidelines", "coding", "torvalds", "linux"],
+  "skills": ["./skills/torvalds-doctrine"]
+}

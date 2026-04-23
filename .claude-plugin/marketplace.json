@@ -1,0 +1,30 @@
+{
+  "name": "linus-torvalds-skills",
+  "id": "torvalds-doctrine",
+  "owner": {
+    "name": "forrestchang"
+  },
+  "metadata": {
+    "description": "Aggressive AI coding guidelines recast through Linus Torvalds' blunt, data-first engineering style",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "linus-torvalds-skills",
+      "source": "./",
+      "description": "Aggressive AI coding guidelines: Data First, Simplicity First, Surgical Changes, Show Me the Code, and a bogus-shit detector",
+      "version": "1.0.0",
+      "author": {
+        "name": "forrestchang"
+      },
+      "keywords": [
+        "ai-coding",
+        "guidelines",
+        "coding",
+        "torvalds",
+        "linux"
+      ],
+      "category": "workflow"
+    }
+  ]
+}
