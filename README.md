@@ -4,7 +4,7 @@
   <img src="./assets/bogus_shit.jpg" alt="Bogus shit" width="600">
 </p>
 
-> "Code is cheap. Show me the proompt"
+> "Code is cheap. Show me the prompt"
 >
 > "Bad code is not an opinion. It's a bug with a PR."
 
@@ -84,7 +84,7 @@ When your changes create orphans:
 
 ### 4. Show Me the Code
 
-**Code is cheap. Show me the proompt Show me the numbers. Show me the failing test.**
+**Code is cheap. Show me the prompt. Show me the numbers. Show me the failing test.**
 
 - Prefer a working patch over a beautiful plan
 - Define success in measurable terms

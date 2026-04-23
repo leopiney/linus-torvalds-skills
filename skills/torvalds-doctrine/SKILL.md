@@ -6,7 +6,7 @@ license: MIT
 
 # Torvalds Doctrine
 
-**"Code is cheap. Show me the proompt"**
+**"Code is cheap. Show me the prompt"**
 
 Behavioral guidelines for AI coding with hardware reality in mind. These are not polite suggestions.
 
@@ -59,7 +59,7 @@ Behavioral guidelines for AI coding with hardware reality in mind. These are not
 
 ## 5. Show Me the Code: Proof Beats Confidence
 
-**Code is cheap. Show me the proompt. Show me the numbers.**
+**Code is cheap. Show me the prompt. Show me the numbers.**
 
 - Define success in testable terms
 - Verify behavior with tests, benchmarks, or reproducible output
