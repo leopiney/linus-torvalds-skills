@@ -178,21 +178,13 @@ These guidelines are working if you see:
 
 ## Install
 
-**Option A: AI coding skill/plugin**
-
-From within Claude Code, first add the marketplace:
+**Option A: npx skills (recommended)**
 
 ```bash
-/plugin marketplace add leopiney/linus-torvalds-skills
+npx skills add leopiney/linus-torvalds-skills
 ```
 
-Then install the plugin:
-
-```bash
-/plugin install linus-torvalds-skills@torvalds-doctrine
-```
-
-This installs the AI coding guidelines as a reusable plugin.
+This installs the skill and tracks it on the [skills.sh leaderboard](https://skills.sh).
 
 **Option B: root instruction file (per-project)**
 
